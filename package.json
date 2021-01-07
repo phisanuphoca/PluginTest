@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-toastyplugin",
+    "name": "cordova-plugin-toastyplugin7",
     "version": "0.0.1",
     "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
     "cordova": {
